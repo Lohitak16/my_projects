@@ -1,12 +1,5 @@
 hi this is lohita
-fhdsfhsdl
 
 
 
-
-
-
-
-
-
-this is to 
+i have learned how to use git from command line.
